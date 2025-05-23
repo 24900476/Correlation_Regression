@@ -1,4 +1,6 @@
-# Correlation and regression for data analysis
+# EXP 03  Correlation and regression for data analysis
+# NAME : KABIRA A
+# REG NO: 212224040146
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -23,7 +25,11 @@ If y represents the dependent variable and x the independent variable, this rela
 
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
+# Output
+![EXP 3 OUTPUT](https://github.com/user-attachments/assets/1a23460b-4325-429d-94d6-797242d49e14)
+
 
 # Result
+The Correleation and regression for data analysis of objects from feeder using probability distribution and calculated.
 
-# Output 
+
